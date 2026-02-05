@@ -1,0 +1,32 @@
+[
+  {
+    "title": "春季通勤穿搭合集",
+    "url": "https://xhs.example/post/1",
+    "rank": 2,
+    "heat_score": 93,
+    "text": "7套早八通勤look，显瘦+有质感",
+    "author": "小周穿搭",
+    "tags": ["春季穿搭", "通勤", "ootd"],
+    "content_type": "image"
+  },
+  {
+    "title": "打工人健康午餐挑战",
+    "url": "https://xhs.example/post/2",
+    "rank": 8,
+    "heat_score": 74,
+    "text": "15分钟高蛋白午餐，办公室也能做",
+    "author": "轻食实验室",
+    "tags": ["健康饮食", "午餐", "效率"],
+    "content_type": "video"
+  },
+  {
+    "title": "AI笔记术提升复盘效率",
+    "url": "https://xhs.example/post/3",
+    "rank": 15,
+    "heat_score": 59,
+    "text": "分享我的 AI 工作流模板",
+    "author": "效率派阿青",
+    "tags": ["AI", "效率", "复盘"],
+    "content_type": "mixed"
+  }
+]
