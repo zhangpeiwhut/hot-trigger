@@ -1,0 +1,17 @@
+source:
+  platform: xhs
+  snapshot_file: examples/xhs_snapshot.json
+triggers:
+  enabled: true
+  min_jump: 5
+  min_spike: 25.0
+  keywords: ["穿搭", "效率", "AI"]
+  cooldown_minutes: 60
+llm:
+  provider: openai_compatible
+  base_url: https://api.openai.com/v1
+  model: gpt-4o-mini
+  api_key_env: OPENAI_API_KEY
+  timeout_seconds: 20
+output:
+  directory: output
